@@ -1,0 +1,17 @@
+{
+  "name": "Eythanboll",
+  "short_name": "Mi Juego",
+  "start_url": "juego.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "orientation": "portrait",
+
+  "icons": [
+    {
+      "src": "icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
